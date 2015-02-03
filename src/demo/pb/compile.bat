@@ -1,0 +1,1 @@
+protoc -I=E:/Workspace/Eclipse/jerseydemo/src --java_out=E:/Workspace/Eclipse/jerseydemo/src E:/Workspace/Eclipse/jerseydemo/src/demo/pb/addressbook.proto
